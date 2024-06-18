@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Assignment</string>
+    <string name="search">Customer Name/Mobile/Account No</string>
+    <string name="customer_list">Customer List</string>
+    <string name="new_customer">Enter Customer Details below</string>
+    <string name="add_customer">Add\n</string>
+    <string name="enter_name">Enter Your Name\n</string>
+    <string name="enter_phone">Mobile Number</string>
+    <string name="submit">Enter</string>
+</resources>
